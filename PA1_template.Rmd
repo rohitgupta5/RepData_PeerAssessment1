@@ -2,8 +2,10 @@
 title: "PA1_template.Rmd"
 author: "Rohit Gupta"
 date: "May 3, 2017"
-output: html_document
+output: md_document
+keep_md: true
 ---
+
 
 #Steps Activity Report
 ```{r provision, echo=TRUE, results='hide'}
